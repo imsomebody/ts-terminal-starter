@@ -1,6 +1,6 @@
 {
-  "name": "ts-createtext",
-  "version": "0.0.1",
+  "name": "ts-terminal-starter",
+  "version": "1.0.0",
   "description": "A TypeScript terminal application",
   "main": "dist/index.js",
   "scripts": {
